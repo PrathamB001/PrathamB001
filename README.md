@@ -28,7 +28,7 @@ I am particularly interested in building AIML-driven systems with real-world con
 **Web & Backend**
 - FastAPI, Streamlit
 - SQLAlchemy
-- HTML/CSS (basic), Next.js & Tailwind CSS (familiar)
+- HTML/CSS (familiar), Next.js & Tailwind CSS (familiar)
 
 **Cloud & Deployment**
 - Streamlit Cloud
