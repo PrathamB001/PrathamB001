@@ -7,7 +7,7 @@ Mumbai, India
 ### Background
 I am a final-year Electronics & Telecommunication Engineering student at Thadomal Shahani Engineering College (CGPA: 8.5/10).  
 My work spans machine learning, computer vision, and applied AI systems, with hands-on experience in both software and embedded systems.  
-I am particularly interested in building ML-driven systems with real-world constraints and pursuing research-oriented graduate studies.
+I am particularly interested in building AIML-driven systems with real-world constraints 
 
 ---
 
